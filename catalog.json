@@ -4,31 +4,31 @@
     "version": "f6009b68"
   },
   "products": [
-    { "id": 1, "name": "Sofa Set", "category": "home", "price": 25999.52, "stock": 2, "rating": 4.4 },
-    { "id": 2, "name": "Dining Table", "category": "home", "price": 30999.52, "stock": 2, "rating": 4.3 },
-    { "id": 3, "name": "Office Chair", "category": "home", "price": 8999.52, "stock": 3, "rating": 4.2 },
-    { "id": 4, "name": "Bookshelf", "category": "home", "price": 6999.52, "stock": 4, "rating": 4.1 },
-    { "id": 5, "name": "Bed Frame", "category": "home", "price": 19999.52, "stock": 2, "rating": 4.5 },
+    { "id": "prod-f6009b68-001", "name": "Sofa Set", "category": "home", "price": 25999.52, "stock": 2, "rating": 4.4 },
+    { "id": "prod-f6009b68-002", "name": "Dining Table", "category": "home", "price": 30999.52, "stock": 2, "rating": 4.3 },
+    { "id": "prod-f6009b68-003", "name": "Office Chair", "category": "home", "price": 8999.52, "stock": 3, "rating": 4.2 },
+    { "id": "prod-f6009b68-004", "name": "Bookshelf", "category": "home", "price": 6999.52, "stock": 4, "rating": 4.1 },
+    { "id": "prod-f6009b68-005", "name": "Bed Frame", "category": "home", "price": 19999.52, "stock": 2, "rating": 4.5 },
 
-    { "id": 6, "name": "Laptop", "category": "electronics", "price": 74999, "stock": 10, "rating": 4.6 },
-    { "id": 7, "name": "Smartphone", "category": "electronics", "price": 34999, "stock": 15, "rating": 4.5 },
-    { "id": 8, "name": "Bluetooth Speaker", "category": "electronics", "price": 4999, "stock": 25, "rating": 4.3 },
-    { "id": 9, "name": "Smart Watch", "category": "electronics", "price": 12999, "stock": 18, "rating": 4.2 },
-    { "id": 10, "name": "Headphones", "category": "electronics", "price": 2999, "stock": 30, "rating": 4.1 },
+    { "id": "prod-f6009b68-006", "name": "Laptop", "category": "electronics", "price": 74999, "stock": 10, "rating": 4.6 },
+    { "id": "prod-f6009b68-007", "name": "Smartphone", "category": "electronics", "price": 34999, "stock": 15, "rating": 4.5 },
+    { "id": "prod-f6009b68-008", "name": "Bluetooth Speaker", "category": "electronics", "price": 4999, "stock": 25, "rating": 4.3 },
+    { "id": "prod-f6009b68-009", "name": "Smart Watch", "category": "electronics", "price": 12999, "stock": 18, "rating": 4.2 },
+    { "id": "prod-f6009b68-010", "name": "Headphones", "category": "electronics", "price": 2999, "stock": 30, "rating": 4.1 },
 
-    { "id": 11, "name": "T-Shirt", "category": "fashion", "price": 799, "stock": 50, "rating": 4.0 },
-    { "id": 12, "name": "Jeans", "category": "fashion", "price": 1999, "stock": 40, "rating": 4.2 },
-    { "id": 13, "name": "Jacket", "category": "fashion", "price": 3499, "stock": 20, "rating": 4.3 },
-    { "id": 14, "name": "Sneakers", "category": "fashion", "price": 2999, "stock": 35, "rating": 4.4 },
-    { "id": 15, "name": "Cap", "category": "fashion", "price": 499, "stock": 60, "rating": 3.9 },
+    { "id": "prod-f6009b68-011", "name": "T-Shirt", "category": "fashion", "price": 799, "stock": 50, "rating": 4.0 },
+    { "id": "prod-f6009b68-012", "name": "Jeans", "category": "fashion", "price": 1999, "stock": 40, "rating": 4.2 },
+    { "id": "prod-f6009b68-013", "name": "Jacket", "category": "fashion", "price": 3499, "stock": 20, "rating": 4.3 },
+    { "id": "prod-f6009b68-014", "name": "Sneakers", "category": "fashion", "price": 2999, "stock": 35, "rating": 4.4 },
+    { "id": "prod-f6009b68-015", "name": "Cap", "category": "fashion", "price": 499, "stock": 60, "rating": 3.9 },
 
-    { "id": 16, "name": "Notebook", "category": "stationery", "price": 99, "stock": 200, "rating": 4.1 },
-    { "id": 17, "name": "Pen Set", "category": "stationery", "price": 149, "stock": 150, "rating": 4.0 },
-    { "id": 18, "name": "Backpack", "category": "stationery", "price": 1299, "stock": 45, "rating": 4.3 },
+    { "id": "prod-f6009b68-016", "name": "Notebook", "category": "stationery", "price": 99, "stock": 200, "rating": 4.1 },
+    { "id": "prod-f6009b68-017", "name": "Pen Set", "category": "stationery", "price": 149, "stock": 150, "rating": 4.0 },
+    { "id": "prod-f6009b68-018", "name": "Backpack", "category": "stationery", "price": 1299, "stock": 45, "rating": 4.3 },
 
-    { "id": 19, "name": "Water Bottle", "category": "accessories", "price": 399, "stock": 80, "rating": 4.2 },
-    { "id": 20, "name": "Sunglasses", "category": "accessories", "price": 999, "stock": 55, "rating": 4.1 },
-    { "id": 21, "name": "Wallet", "category": "accessories", "price": 799, "stock": 70, "rating": 4.0 }
+    { "id": "prod-f6009b68-019", "name": "Water Bottle", "category": "accessories", "price": 399, "stock": 80, "rating": 4.2 },
+    { "id": "prod-f6009b68-020", "name": "Sunglasses", "category": "accessories", "price": 999, "stock": 55, "rating": 4.1 },
+    { "id": "prod-f6009b68-021", "name": "Wallet", "category": "accessories", "price": 799, "stock": 70, "rating": 4.0 }
   ],
   "aggregations": {
     "home": {
